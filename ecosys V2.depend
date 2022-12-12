@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1651157073 source:f:\oop\lab9\ecosys v2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"plant.h"
+
+1651083357 source:f:\oop\lab9\ecosys v2\earth.cpp
+	<cstdlib>
+	"earth.h"
+
+1651161811 f:\oop\lab9\ecosys v2\earth.h
+
+1651155581 source:f:\oop\lab9\ecosys v2\plant.cpp
+	"plant.h"
+
+1651155226 f:\oop\lab9\ecosys v2\plant.h
+	<iostream>
+	<tuple>
+	"earth.h"
+
+1651083357 source:f:\oop\real hw2\ecosys v2\earth.cpp
+	<cstdlib>
+	"earth.h"
+
+1651161811 f:\oop\real hw2\ecosys v2\earth.h
+
+1656351240 source:f:\oop\real hw2\ecosys v2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"plant.h"
+	"catch.hpp"
+
+1651155226 f:\oop\real hw2\ecosys v2\plant.h
+	<iostream>
+	<tuple>
+	"earth.h"
+
+1647360897 f:\oop\real hw2\ecosys v2\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<vector>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<string>
+	<vector>
+	<iostream>
+	<string>
+	<vector>
+	<streambuf>
+	<streambuf>
+	<ostream>
+	<fstream>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<map>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<vector>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<random>
+	<map>
+	<ostream>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<map>
+	<map>
+	<iostream>
+	<cstring>
+	<sstream>
+	<string>
+	<vector>
+	<iomanip>
+	<assert.h>
+
+1651155581 source:f:\oop\real hw2\ecosys v2\plant.cpp
+	"plant.h"
+
